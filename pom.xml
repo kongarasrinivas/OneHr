@@ -123,11 +123,6 @@
 			<type>pom</type>
 		</dependency>
 		<dependency>
-			<groupId>ru.yandex.qatools.ashot</groupId>
-			<artifactId>ashot</artifactId>
-			<version>1.5.4</version>
-		</dependency>
-		<dependency>
 			<groupId>com.itextpdf</groupId>
 			<artifactId>layout</artifactId>
 			<version>9.2.0</version>

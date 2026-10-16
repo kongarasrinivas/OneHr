@@ -1,4 +1,3 @@
-@Sanity
 Feature: Add Manager functionality in One HR Application
   @AddManager
   Scenario Outline: <userType> creates a new Manager

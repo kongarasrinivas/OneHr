@@ -1,4 +1,4 @@
-@Sanity
+
 Feature: Add HrAdmin functionality in One HR Application
 
   @AddEmployee

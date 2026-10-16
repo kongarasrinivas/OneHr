@@ -1,4 +1,3 @@
-@Sanity
 Feature: Add Employee functionality in One HR Application
 
   @AddEmployee
