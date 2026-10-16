@@ -1,0 +1,68 @@
+{
+  "AttributeIDDropdownValues": [
+  	"Select...",
+    "Address ID",
+    "Bus Res",
+    "City",
+    "Competitive Intensity Zones",
+    "Fiber Serving Location",
+    "Loop Type",
+    "Market",
+    "NBS_Address",
+    "NBS_FDH",
+    "Office",
+    "RateCard_Address",
+    "RateCard_FDH",
+    "Sales Channel",
+    "State",
+    "Student",
+    "SWC",
+    "Terminal",
+    "Veteran",
+    "Zip"
+  ],
+  
+  "Address_ID_values":["Select...","N/A"],
+  
+  "BUS_RES_values":[
+  "Select...",
+  "Bus",
+  "Res"
+  ],
+  
+  "City_values":[],
+  
+  "Competitive_Intencity_zones_values":[
+  "Select...","01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16","17","18"],
+  
+  "Fiber_Serving_Location_values":[],
+  
+  "Loop_Type_values":["Select...","ADSL","PON","VDSL"],
+  
+  "Market_values":["Select...","ALT","CAL","CON","ILL","KAT","LUF","NNE","PEN","TG","USA"],
+  
+  "NBS_Address_values":[],
+  
+  "NBS_FDH_values":[],
+  
+  "Office_values":[],
+  
+  "RateCard_Address_values":[],
+  
+  "RateCard_FDH_values":[],
+  
+  "Sales_Channel_values":["Select...","API","CSR","DSR","Web"],
+  
+  "State_values":["Select...","AK","AL","AR","AZ","CA","CO","CT","DE","FL","GA","HI","IA","ID","IL","IN","KS","KY","LA","MA","MD","ME","MI","MN","MO","MS","MT","NC","ND","NE","NH","NJ","NM","NV","NY","OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VA","VT","WA","WI","WV","WY"],
+  
+  "Student_values":["Select...","N","Y"],
+  
+  "SWC_values":[],
+  
+  "Terminal_values":[],
+  
+  "Veteran_values":["Select...","N","Y"],
+  
+  "Zip_values":[]
+  
+}

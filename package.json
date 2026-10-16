@@ -1,0 +1,12 @@
+{
+  "name": "onehr-mochawesome-report",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Converts the Cucumber JSON output from the Java test run into a Mochawesome-style HTML report",
+  "scripts": {
+    "report:mochawesome": "node scripts/cucumber-to-mochawesome.js && marge target/mochawesome-report/mochawesome.json --reportDir target/mochawesome-report --reportFilename mochawesome --inline"
+  },
+  "devDependencies": {
+    "mochawesome-report-generator": "^6.2.0"
+  }
+}

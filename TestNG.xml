@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BDD Cucumber Ordered Suite" verbose="1" parallel="false">
+ 
+ 
+ <listeners>
+    <listener class-name="com.qa.oneHr.listeners.TestNGListeners"/>
+  </listeners>
+
+  <!-- Define the Test -->
+  <test name="Cucumber Test">
+
+    <classes>
+      <class name="com.qa.oneHr.testrunner.TestRunner"/>
+    </classes>
+  </test>
+  
+    <!-- First: Run Create Attribute -->
+    <!-- <test name="Run Create Attribute">
+        <classes>
+            <class name="runnerTest.CreateAttributeTestRunner"/>
+        </classes>
+    </test>
+ --> 
+    <!-- Second: Run Edit Attribute -->
+    <!-- <test name="Run Edit Attribute">
+        <classes>
+            <class name="runnerTest.EditAttributeTestRunner"/>
+        </classes>
+    </test> -->
+ 
+    <!-- Third: Run Disable Attribute -->
+   <!--  <test name="Run Disable Attribute Feature">
+        <classes>
+            <class name="runnerTest.DisableAttributeTestRunner"/>
+        </classes>
+    </test> -->
+    
+    
+</suite>
+ 

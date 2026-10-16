@@ -1,0 +1,12 @@
+target/
+node_modules/
+.idea/
+.claude/
+*.iml
+OneHrExtentReports/
+OneHrHtml&PDFReports/
+OneHrPDFReports/
+OneHrLogReports/
+test-output/
+delete_screen_dump.html
+configuration.properties
